@@ -1,2 +1,2 @@
 # MultilayerPerceptron
-Implementation of multi-layer perceptron in java
+Simple Implementation of multi-layer perceptron in java
